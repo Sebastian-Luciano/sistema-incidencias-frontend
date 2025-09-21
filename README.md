@@ -10,8 +10,8 @@ Se conecta al backend mediante una API REST para registrar, listar y administrar
 Clona el repositorio e instala las dependencias:
 
 ```bash
-git clone https://github.com/TU_USUARIO/TU_REPO_FRONTEND.git
-cd TU_REPO_FRONTEND
+git clone https://github.com/Sebastian-Luciano/sistema-incidencias-frontend.git
+cd sistema-incidencias-frontend
 npm install
 npm run dev
 
@@ -40,6 +40,6 @@ src/
 ---
 ## 👨‍💻 Autor
 Desarrollado por Tu Nombre como parte del proyecto educativo de Gestión de Incidencias.
-`---`
+---
 ## 📜 Licencia
 MIT – Eres libre de usar y modificar este código con fines educativos y profesionales.
