@@ -1,3 +1,0 @@
-{
-  "buildCommand": "rm -rf node_modules .next && npm install && npm run build"
-}
