@@ -41,6 +41,9 @@ export default function MainLayout() {
                             <Link to="/admin/categorias" className="hover:underline">
                                 Categorías
                             </Link>
+                            <Link to="/admin/faqs" className="hover:underline">
+                                FAQs
+                            </Link>
                         </>
                     )}
                     {loading ? (

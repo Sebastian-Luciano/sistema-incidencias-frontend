@@ -12,6 +12,7 @@ import MainLayout from "./layouts/MainLayout";
 import AdminEstados from "./pages/AdminEstados";
 import AdminCategorias from "./pages/AdminCategorias";
 import Register from "./pages/Register";
+import AdminFAQs from "./pages/AdminFAQs";
 
 function App() {
   return (
@@ -32,6 +33,7 @@ function App() {
             <Route path="/nueva-incidencia" element={<NuevaIncidencia />} />
             <Route path="/admin/estados" element={<AdminEstados />} />
             <Route path="/admin/categorias" element={<AdminCategorias />} />
+            <Route path="/admin/faqs" element={<AdminFAQs />} />
           </Route>
 
           {/* Redirigir por defecto */}

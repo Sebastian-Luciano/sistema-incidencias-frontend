@@ -34,3 +34,8 @@
         animation: slideUp 0.3s ease-out forwards;
     }
 }
+
+/* Reducir tamaño de emojis */
+.epr-emoji {
+    font-size: 14px !important;
+}
